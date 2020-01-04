@@ -1,0 +1,8 @@
+FILE SYSTEM DALAM NODEJS
+
+fs.readFile()
+fs.open()
+fs.appendFile()
+fs.writeFile()
+fs.unlink()
+fs.rename()
