@@ -1,8 +1,18 @@
 FILE SYSTEM DALAM NODEJS
 
+// membaca file bisa text, html dll.
 fs.readFile()
+
 fs.open()
+
+// menambah teks diakhir pada file.
 fs.appendFile()
+
+// menghapus isi file dan mengganti dengan teks yang di tentukan.
 fs.writeFile()
+
+// menghapus file
 fs.unlink()
+
+// merename file
 fs.rename()
